@@ -1,0 +1,8 @@
+{
+  "short_name": "NephroCalc",
+  "name": "NephroCalc Pro — Clinical Nephrology Decision Support",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111111",
+  "background_color": "#f7f8fa"
+}
